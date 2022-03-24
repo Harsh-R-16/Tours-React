@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap");
+
+body {
+  background-color: #f1f5f8;
+  font-family: ubuntu, sans-serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.tour-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.display {
+  display: none;
+}
